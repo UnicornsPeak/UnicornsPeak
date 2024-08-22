@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @UnicornsPeak
 - 👀 I’m interested in the development of technology guiding humanity to the next frontier. 
-- 🌱 I’m currently learning how to develope meaningful dialogue with A.I. systems to enable me to provide insight of the hidden aspects of technology.  
+- 🌱 I’m currently learning how to develop meaningful dialogue with A.I. systems to enable me to provide insight of the hidden aspects of technology.  
 - 💞️ I’m looking to collaborate with anyone that is validated and with innovate approaches in developing problem solving systems.
 - 📫 How to reach me discord @BioCodeHelix
 - 😄 Pronouns: Dude
